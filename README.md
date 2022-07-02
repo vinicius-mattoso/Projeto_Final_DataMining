@@ -1,4 +1,7 @@
+![Welcome](/Capa_projeto_Final.png?raw=true)
+
 # Projeto_Final_DataMining
+
 Repositório contendo o trabalho final da matéria de Data Mining do MBA BI-MASTER da PUC-Rio
 
 ### Contextualização e Objetivo do Trabalho
