@@ -1,6 +1,52 @@
 # Projeto_Final_DataMining
 Repositório contendo o trabalho final da matéria de Data Mining do MBA BI-MASTER da PUC-Rio
 
+### Contextualização e Objetivo do Trabalho
+
+Devido às transformações tecnológicas que vêm ocorrendo em nossa sociedade, o acesso aos dados oriundos do Sistema Único de Saúde (SUS) têm se tornado cada vez mais fácil. Nosso grupo, visando melhor entender quais são os principais fatores que levam um paciente a óbito, decidiu construir um modelo de classificação binária com as informações disponibilizadas pelo banco de dados abertos do SUS.
+
+Compreender quais são os principais fatores associados ao óbito de pacientes internados, podem ser de grande utilidade para o planejamento de medidas preventivas a serem adotadas pelo próprio SUS. As seguradoras também possuem particular interesse sobre o tema, tendo em vista que a identificação de tais fatores e de sua representatividade para o óbito permitirá uma melhor avaliação de riscos, o que viabiliza a otimização dos processos de aquisição de novos clientes e de avaliação de solicitações de sinistro.
+
+### Etapas do Projeto
+
+  [1] Aquisição dos dados
+
+  [2] Preparação dos dados
+
+  [3] Criação do Baseline
+
+  [4] Balanceamento e tratamento da base
+
+  [5] Novos Modelos
+
+  [6] GridSearch
+
+  [7] Conclussões
+
+### Modelos Utilizados
+
+* Decision Tree Classifier 
+* SVM
+* Random Forest Classifier
+
+
+### Arquivos do repositório
+
+* Os arquivos [pdf](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/tree/main/Material_pdf_consulta_especialista) utilizados para compreender a base de dados;
+
+* Código para fazer o [download da base de dados](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/blob/main/Feature_clean_pySUS_RJ_2019.ipynb) direto do [pySUS](https://pypi.org/project/PySUS/);
+
+* [Filtro inicial das features](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/blob/main/Feature_clean_pySUS_RJ_2019.ipynb);
+
+* Aplicação do [Encoding dos dados e criação do baseline](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/blob/main/BASELINE_Decision_tree.ipynb);
+
+* Aplicação das técnicas de pré-processamento da base dados, teste com outros modelos e gridSearch no modelo mais eficiente [code](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/blob/main/Oversampling.ipynb)
+
+
+
+
+
+
 
 
 ## Authors
