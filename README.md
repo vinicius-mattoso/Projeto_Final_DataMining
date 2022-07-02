@@ -43,21 +43,16 @@ Compreender quais são os principais fatores associados ao óbito de pacientes i
 * Aplicação das técnicas de pré-processamento da base dados, teste com outros modelos e gridSearch no modelo mais eficiente [code](https://github.com/vinicius-mattoso/Projeto_Final_DataMining/blob/main/Oversampling.ipynb)
 
 
-
-
-
-
-
-
 ## Authors
-[<img src="https://user-images.githubusercontent.com/74414640/177011837-f528bdd2-4638-4b68-97ec-b22d5f783849.png" width=120><br><sub>Eduardo Marques</sub>](https://www.linkedin.com/in/eduardo-marques-67724a219/)
 
-
-[<img src="https://user-images.githubusercontent.com/74414640/177011929-66b8da5e-7623-431e-9473-c7bac684293d.png" width=120><br><sub>Eleonora Weiner</sub>](https://www.linkedin.com/in/eleonoracw/)
-
-[<img src="https://user-images.githubusercontent.com/74414640/177012036-3ee7f72b-dbc3-4f86-8e0d-14c4d5e79395.png" width=120><br><sub>Vinicius Guerra</sub>](https://www.linkedin.com/in/vin%C3%ADcius-guerra-msc-cert-cii-74691778/)
-
-[<img src="https://user-images.githubusercontent.com/74414640/167328751-8cdcac06-b869-42be-82fc-893913abbd21.png" width=120><br><sub>Vinicius Mattoso</sub>](https://www.linkedin.com/in/vinicius-mattoso/)
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/eduardo-marques-67724a219/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/74414640/177011837-f528bdd2-4638-4b68-97ec-b22d5f783849.png" width="100px;" alt=""/><br /><sub><b>Eduardo Marques</b></sub></a><br /><a href="https://www.linkedin.com/in/eduardo-marques-67724a219/" title="Rocketseat"></a></td>    
+    <td align="center"><a href="https://www.linkedin.com/in/eleonoracw/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/74414640/177011929-66b8da5e-7623-431e-9473-c7bac684293d.png" width="100px;" alt=""/><br /><sub><b>Eleonora Weiner</b></sub></a><br /><a href="https://www.linkedin.com/in/eleonoracw/" title="Rocketseat"></a></td>    
+    <td align="center"><a href="https://www.linkedin.com/in/vin%C3%ADcius-guerra-msc-cert-cii-74691778/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/74414640/177012036-3ee7f72b-dbc3-4f86-8e0d-14c4d5e79395.png" width="100px;" alt=""/><br /><sub><b>Vinicius Guerra</b></sub></a><br /><a href="https://www.linkedin.com/in/vin%C3%ADcius-guerra-msc-cert-cii-74691778/" title="Rocketseat"></a></td>    
+    <td align="center"><a href="https://www.linkedin.com/in/vinicius-mattoso/"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/74414640/167328751-8cdcac06-b869-42be-82fc-893913abbd21.png" width="100px;" alt=""/><br /><sub><b>Vinicius Mattoso</b></sub></a><br /><a href="https://www.linkedin.com/in/vinicius-mattoso/" title="Rocketseat"></a></td>    
+  </tr>
+</table>
 
 ## Teacher
 [<img src="https://user-images.githubusercontent.com/74414640/167327273-69e5e289-456a-40ee-bb37-2bd1fd699538.jpg" width=115><br><sub> Manoela Kohler </sub>](https://www.linkedin.com/in/manoelakohler/)
